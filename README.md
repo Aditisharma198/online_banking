@@ -63,8 +63,69 @@ CREATE TABLE `banking` (
 
 
 Welcome Page:
+![](ssimg/1.PNG)
+
 DATA FLOW DIAGRAM:
-•	CONCLUSION & SCOPE FOR FUTRURE DEVLOPMENT:
+![](ssimg/dfd.PNG)
+
+Collaboration diagram:
+![](ssimg/collaboration.PNG)
+
+Acitivity Diagram:
+1-Login Process:
+![](ssimg/activitydia.PNG)
+![](ssimg/activity3&4.PNG)
+
+OUTPUT SCREENS:
+1.	Home Page:
+![](ssimg/1.PNG)
+
+2- Login page. Enter correct username and password: 
+![](ssimg/login.PNG)
+
+3- Account details displayed on the screen:
+![](ssimg/Loginshow.PNG)
+
+4-New User Account form. Fill Correct credentials:
+![](ssimg/createacc.PNG)
+
+On filling correct details:
+![](ssimg/createsucces.PNG)
+
+5- Check balance after logging in account:
+![](ssimg/balance.PNG)
+
+On filling correct details:
+![](ssimg/checkbal.PNG)
+
+6- Deposit form :
+![](ssimg/deposit.PNG)
+
+On filling correct details:
+![](ssimg/checkdepo.PNG)
+
+![](ssimg/checkdepobal.PNG)
+
+7-Withdraw form:
+![](ssimg/withdraw.PNG)
+
+On filling correct details:
+![](ssimg/withmsg.PNG)
+
+8-Change password :
+![](ssimg/changepass.PNG)
+
+On filling correct details:
+![](ssimg/showchangep.PNG)
+
+9- Account closing form:
+![](ssimg/Accclosing.PNG)
+
+On filling correct details:
+![](ssimg/msgclosing.PNG)
+
+
+•CONCLUSION & SCOPE FOR FUTRURE DEVLOPMENT:
 
 	CONCLUSION-
 This project developed, incorporated all the activities involved in the browsing centre. The system provides quickly and valuable information. These modules have been integrated for effective use of the management for future forecasting and for the current need.
